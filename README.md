@@ -58,7 +58,7 @@ En esta página veremos un top de los servicios mas atacados junto con un porcen
 ## Información Principal
 Al analizar los datos de este dataset logramos identificar la siguiente información
 |Resultado |
-|---|---:|
+|---|
 | Top 3 de servicios más atacados | 
 | Ataques por protocolo | 
 | Ataques más frecuentes  | 
